@@ -1,0 +1,6 @@
+D:\workspace\Vending-Machine\VendingMachineApp\obj\Release\net8.0\VendingMachineApp.csproj.AssemblyReference.cache
+D:\workspace\Vending-Machine\VendingMachineApp\obj\Release\net8.0\MvcTestingAppManifest.json
+D:\workspace\Vending-Machine\VendingMachineApp\obj\Release\net8.0\VendingMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Vending-Machine\VendingMachineApp\obj\Release\net8.0\VendingMachineApp.AssemblyInfoInputs.cache
+D:\workspace\Vending-Machine\VendingMachineApp\obj\Release\net8.0\VendingMachineApp.AssemblyInfo.cs
+D:\workspace\Vending-Machine\VendingMachineApp\obj\Release\net8.0\VendingMachineApp.csproj.CoreCompileInputs.cache
